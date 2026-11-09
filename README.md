@@ -1,11 +1,12 @@
 # CotacoesBI
-Projeto de BI coletando as cotações de Euro e do Dólar em relação ao real via API dos últimos 5 dias e exibindo no gráfico de barras
+Projeto de BI coletando as cotações de Euro e do Dólar em relação ao real via API dos últimos dias, exibindo no gráfico de barras e mostrando em cards os menores e maiores valores registrados juntamente com as datas
+
+
+
+<img width="1436" height="805" alt="image" src="https://github.com/user-attachments/assets/c313a352-45d4-4d1e-b4f0-126d79c81aab" />
 
 
 
 
-
-
-<img width="1434" height="805" alt="image" src="https://github.com/user-attachments/assets/9f87627d-e1d9-427e-aa18-a8fc4a5d4620" />
 
 
