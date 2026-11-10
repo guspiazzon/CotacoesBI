@@ -1,4 +1,4 @@
-# CotacoesBI
+# CotaçõesBI
 Projeto de BI coletando as cotações de Euro e do Dólar em relação ao real via API dos últimos dias, exibindo no gráfico de linhas e mostrando em cards os menores e maiores valores registrados juntamente com as datas, coleta usando os últimos 30 dias de registro
 
 
