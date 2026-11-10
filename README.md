@@ -3,7 +3,8 @@ Projeto de BI coletando as cotações de Euro e do Dólar em relação ao real v
 
 
 
-<img width="1436" height="805" alt="image" src="https://github.com/user-attachments/assets/c313a352-45d4-4d1e-b4f0-126d79c81aab" />
+<img width="1432" height="803" alt="image" src="https://github.com/user-attachments/assets/84e970e0-7666-4d8e-a920-f318ffffdbc0" />
+
 
 
 
